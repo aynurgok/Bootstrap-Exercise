@@ -1,2 +1,1 @@
-# Bootstrap-Exercise
-Bootstrap exercise patika task
+# Bootstrap Exercise
